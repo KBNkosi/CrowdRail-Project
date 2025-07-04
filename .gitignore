@@ -13,5 +13,5 @@ Thumbs.db
 .vscode/
 *.swp
 
-# Ignore vendor dependencies (if using Composer)
+# Ignore vendor dependencies 
 vendor/
