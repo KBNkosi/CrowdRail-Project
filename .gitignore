@@ -1,0 +1,17 @@
+# Ignore sensitive configuration files
+config.php
+
+# Ignore uploaded files and user content
+uploads/
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor files
+.vscode/
+*.swp
+
+# Ignore vendor dependencies (if using Composer)
+vendor/
