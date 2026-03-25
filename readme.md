@@ -1,6 +1,10 @@
 # CrowdRail
 
-CrowdRail is a web application for submitting, tracking, and reviewing train sightings and events. It features user registration, authentication, role-based access, and an admin/editor workflow for approving or rejecting submissions.
+## 📘 Archived University Project
+
+CrowdRail is a web application built using PHP for submitting, tracking, and reviewing train sightings and events.
+
+This project was developed during my university studies and demonstrates early experience with backend development, authentication systems, and role-based workflows.
 
 ---
 
@@ -76,11 +80,46 @@ CrowdRail is a web application for submitting, tracking, and reviewing train sig
 
 ---
 
+
+## 🧠 What This Project Demonstrates
+
+- Backend development using PHP
+- Authentication and authorization workflows
+- Role-based system design
+- CRUD operations with a relational database
+- Basic security best practices
+
+---
+
+## 🛠 Tech Stack
+
+- Language: PHP 8.x
+- Database: MySQL / MariaDB
+- UI: Bootstrap
+- Server: Apache / XAMPP
+
+---
+
 ## Security Notes
 
 - Do **not** commit `config.php` with real credentials to public repositories.
 - Always validate and sanitize user input.
 - Use HTTPS in production.
+
+---
+## ⚠️ Status
+
+This project is **archived and not actively maintained**.
+
+It reflects my early experience with PHP and backend systems.
+---
+
+## 🚀 Current Focus
+
+I am currently building modern backend systems using:
+- FastAPI
+- PostgreSQL
+- Clean architecture (services, repositories, domains)
 
 ---
 
