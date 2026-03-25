@@ -1,10 +1,34 @@
 # CrowdRail
 
-## 📘 Archived University Project
+## ⚠️ Important Note
 
-CrowdRail is a web application built using PHP for submitting, tracking, and reviewing train sightings and events.
+This project was built earlier in my learning journey by following tutorials and external guidance.
 
-This project was developed during my university studies and demonstrates early experience with backend development, authentication systems, and role-based workflows.
+While I understand the **overall structure and purpose of the system**, I did not implement all parts independently and would not yet be able to fully explain every detail of the code.
+
+I’ve chosen to keep this project as part of my learning history and as a reference for concepts I am continuing to study and improve.
+
+## 🧠 What I Learned
+
+Through this project, I was exposed to:
+
+- How authentication systems work (login, sessions)
+- The concept of **role-based access control**
+- Structuring a multi-page backend application in PHP
+- Working with a relational database (MySQL)
+- Basic security concepts such as:
+  - Prepared statements (SQL injection prevention)
+  - Output escaping (XSS prevention)
+  - Session handling
+
+
+  
+## 🛠 Tech Stack
+
+- Language: PHP 8.x
+- Database: MySQL / MariaDB
+- UI: Bootstrap
+- Server: Apache / XAMPP
 
 ---
 
@@ -81,22 +105,8 @@ This project was developed during my university studies and demonstrates early e
 ---
 
 
-## 🧠 What This Project Demonstrates
-
-- Backend development using PHP
-- Authentication and authorization workflows
-- Role-based system design
-- CRUD operations with a relational database
-- Basic security best practices
-
 ---
 
-## 🛠 Tech Stack
-
-- Language: PHP 8.x
-- Database: MySQL / MariaDB
-- UI: Bootstrap
-- Server: Apache / XAMPP
 
 ---
 
@@ -117,11 +127,15 @@ It reflects my early experience with PHP and backend systems.
 ## 🚀 Current Focus
 
 I am currently building modern backend systems using:
-- FastAPI
-- PostgreSQL
-- Clean architecture (services, repositories, domains)
+- FastAPI(Python)
+- REST API design
+- Database modeling
+- Cleaner and more structured architectures
 
 ---
+
+## 📌 Future Plan
+I may revisit or rebuild a similar system using modern backend technologies to better reflect my current skill level.
 
 ## License
 
