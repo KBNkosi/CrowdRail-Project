@@ -1,26 +1,21 @@
 # CrowdRail
 
-## ⚠️ Important Note
+## 📌 Project Context
 
-This project was built earlier in my learning journey by following tutorials and external guidance.
+This project was developed earlier in my learning journey and provided hands-on exposure to building a full-stack PHP application.
 
-While I understand the **overall structure and purpose of the system**, I did not implement all parts independently and would not yet be able to fully explain every detail of the code.
+It focuses on core backend concepts such as authentication, role-based access control, and secure database interactions.
 
-I’ve chosen to keep this project as part of my learning history and as a reference for concepts I am continuing to study and improve.
+## 🧠 Key Concepts & Experience
 
-## 🧠 What I Learned
-
-Through this project, I was exposed to:
-
-- How authentication systems work (login, sessions)
-- The concept of **role-based access control**
-- Structuring a multi-page backend application in PHP
-- Working with a relational database (MySQL)
-- Basic security concepts such as:
+- User authentication and session management
+- Role-based access control (RBAC)
+- Structuring multi-page PHP applications
+- Working with relational databases (MySQL)
+- Backend security practices:
   - Prepared statements (SQL injection prevention)
   - Output escaping (XSS prevention)
   - Session handling
-
 
   
 ## 🛠 Tech Stack
@@ -105,11 +100,6 @@ Through this project, I was exposed to:
 ---
 
 
----
-
-
----
-
 ## Security Notes
 
 - Do **not** commit `config.php` with real credentials to public repositories.
@@ -117,25 +107,11 @@ Through this project, I was exposed to:
 - Use HTTPS in production.
 
 ---
+
 ## ⚠️ Status
 
-This project is **archived and not actively maintained**.
-
-It reflects my early experience with PHP and backend systems.
+This project is not actively maintained but is kept as a reference for backend concepts and learning progress.
 ---
-
-## 🚀 Current Focus
-
-I am currently building modern backend systems using:
-- FastAPI(Python)
-- REST API design
-- Database modeling
-- Cleaner and more structured architectures
-
----
-
-## 📌 Future Plan
-I may revisit or rebuild a similar system using modern backend technologies to better reflect my current skill level.
 
 ## License
 
